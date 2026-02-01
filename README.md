@@ -1,117 +1,120 @@
 📊 Sales & Customer Performance Analysis
+
 📌 Project Overview
 
 This project is an end-to-end Data Analyst portfolio project that analyzes sales and customer performance using real-world retail data.
+
 It covers the complete data analysis lifecycle — data cleaning, analysis, visualization, and business insights — similar to what data analysts do in real companies.
 
 The goal is to identify sales trends, profitability issues, customer behavior, and key business opportunities.
 
 🎯 Objectives
 
-Analyze overall sales and profit performance
+   Analyze overall sales and profit performance
 
-Identify top-performing and loss-making products
+   Identify top-performing and loss-making products
 
-Understand customer contribution to revenue
+   Understand customer contribution to revenue
 
-Study the impact of discounts on profit
+   Study the impact of discounts on profit  
 
-Generate actionable business insights using data
+   Generate actionable business insights using data
 
 🗂️ Dataset
 
-Source: Kaggle – Sample Superstore Dataset
+    Source: Kaggle – Sample Superstore Dataset
 
-File name: superstore.csv
+    File name: superstore.csv
 
-Type: Retail sales transactional data
+    Type: Retail sales transactional data
 
 🛠️ Tech Stack
 
-Python
+    Python
 
-Pandas – Data manipulation & cleaning
+    Pandas – Data manipulation & cleaning
 
-NumPy – Numerical analysis
+    NumPy – Numerical analysis
 
-Matplotlib & Seaborn – Data visualization
+    Matplotlib & Seaborn – Data visualization
 
-VS Code – Development environment
+    VS Code – Development environment
 
 🔍 Key Analysis Performed
 
-Data cleaning and preprocessing
+    Data cleaning and preprocessing
 
-Yearly and monthly sales trend analysis
+    Yearly and monthly sales trend analysis
 
-Category-wise and region-wise performance
+    Category-wise and region-wise performance
 
-Top and bottom products by profit
+    Top and bottom products by profit
 
-Customer revenue contribution (Pareto analysis)
+    Customer revenue contribution (Pareto analysis)
 
-Discount vs profit relationship
+    Discount vs profit relationship
 
-Customer segmentation (High / Medium / Low value)
+    Customer segmentation (High / Medium / Low value)
 
 📈 Visualizations
 
-Yearly sales trends
+    Yearly sales trends
 
-Monthly sales growth
+    Monthly sales growth
 
-Category-wise sales distribution
+    Category-wise sales distribution
 
-Region-wise profit comparison
+    Region-wise profit comparison
 
-Discount vs profit scatter analysis
+    Discount vs profit scatter analysis
 
-Top products by revenue
+    Top products by revenue
 
 💡 Business Insights
 
-Sales show clear growth trends with seasonal patterns
+    Sales show clear growth trends with seasonal patterns
 
-A small percentage of customers generate the majority of revenue
+    A small percentage of customers generate the majority of revenue
 
-Certain products consistently cause losses
+    Certain products consistently cause losses
 
-High discounts negatively impact profitability
+    High discounts negatively impact profitability
 
-Some regions have high sales but low profit margins
+    Some regions have high sales but low profit margins
 
 ▶️ How to Run the Project
 
-Clone the repository
+    Clone the repository
 
-Place superstore.csv in the project folder
+    Place superstore.csv in the project folder
 
-Install required libraries:
+    Install required libraries:
 
-pip install pandas numpy matplotlib seaborn
+    pip install pandas numpy matplotlib seaborn
 
 
-Run the script:
+  Run the script:
 
-python sales_analysis.py
+    python sales_analysis.py
 
 🧠 What I Learned
 
-Practical data cleaning techniques
+    Practical data cleaning techniques
 
-Business-oriented data analysis
+    Business-oriented data analysis
 
-Creating meaningful KPIs
+    Creating meaningful KPIs
 
-Converting raw data into insights
+    Converting raw data into insights
 
-Presenting data visually for decision-making
+    Presenting data visually for decision-making
 
 🏆 Interview One-Liner
 
-“I built an end-to-end sales and customer performance analysis project where I cleaned retail data, analyzed trends, segmented customers, evaluated profitability, and delivered actionable business insights using Python.”
+    “I built an end-to-end sales and customer performance analysis project where I cleaned retail data, analyzed trends, segmented customers, evaluated profitability, and delivered actionable business insights using Python.”
 
 📬 Author
 
 Srija Irugu
+
 Aspiring Data Analyst | Python | Data Visualization
